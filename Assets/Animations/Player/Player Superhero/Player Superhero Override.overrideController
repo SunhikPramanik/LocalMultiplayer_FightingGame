@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Superhero Override
+  m_Controller: {fileID: 9100000, guid: 1847fa0581fb62043acd3547faa75f73, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f147d560667d12f4e847ea55b4ca0cb2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4867775bff2b35349a73065c03077bb8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 92ea728d092200c42b0e3a068933cf7f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fc7c12cbc6a6a2e4db52117be78a8a27, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f0d70ca3ed6c9af44ba903a56cddc92b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4737a02093373f5419db6cf195d5d875, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b300d551bd6fafb4cbcf15a97dd39f6d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dae7ee2e563858a44ad18728f38f35ec, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eebac5af0e4700f4a8243a80533a653f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9aae50433789f8f438606eeaf347f9fb, type: 2}

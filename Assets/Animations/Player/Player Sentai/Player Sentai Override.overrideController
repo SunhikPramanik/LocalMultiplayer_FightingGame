@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Sentai Override
+  m_Controller: {fileID: 9100000, guid: 1847fa0581fb62043acd3547faa75f73, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f147d560667d12f4e847ea55b4ca0cb2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dd695043dc448a1468e9eef7cc496988, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 92ea728d092200c42b0e3a068933cf7f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5f6c412b72ce6534b98857f0257d977d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f0d70ca3ed6c9af44ba903a56cddc92b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: df24df5c69e321f4294e87064936df9b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b300d551bd6fafb4cbcf15a97dd39f6d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 677314ed957be124584a9a04814d51dc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eebac5af0e4700f4a8243a80533a653f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9756e53a40ab67648989f8fedbe9d988, type: 2}
